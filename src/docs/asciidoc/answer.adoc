@@ -1,0 +1,25 @@
+= Spring REST Docs
+:toc: left
+:toclevels: 2
+:sectlinks:
+
+[[resources-post]]
+== 답변
+
+[[resources-post-create]]
+=== 답변 등록
+
+==== HTTP Request
+include::{snippets}/register-answer/http-request.adoc[]
+
+==== Path Parameter
+include::{snippets}/register-answer/path-parameters.adoc[]
+
+==== Request Header
+include::{snippets}/register-answer/request-headers.adoc[]
+
+==== Request Body
+include::{snippets}/register-answer/request-body.adoc[]
+
+==== HTTP Response
+include::{snippets}/register-answer/http-response.adoc[]
